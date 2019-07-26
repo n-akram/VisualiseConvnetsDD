@@ -9,7 +9,7 @@ Visualise the activations of network trained for driver distraction detection us
 
 This repository cosists of CNN visualisation of intermediate layers of a driver distraction detection using StateFarm database. Two models were trained with similar structure and are visualised here. One that classifies only mobile based distraction and another that classifies all distractions.
 
-Trained model and corresponding files are in : 
+Trained model and corresponding files are in : https://github.com/n-akram/DriverDistractionDetection
 
 Classes used by model classifying only mobile based distractzions: C0 to C4
 
