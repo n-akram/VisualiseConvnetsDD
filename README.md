@@ -1,17 +1,17 @@
-# Visualise Convnets DDD
+# Visualize Convnets DDD
 
-Visualise the activations of network trained for driver distraction detection using StateFarm database 
+Visualize the activations of network trained for driver distraction detection using StateFarm database 
 
 
 
 ######################### INFORMATION #################################
 
 
-This repository cosists of CNN visualisation of intermediate layers of a driver distraction detection using StateFarm database. Two models were trained with similar structure and are visualised here. One that classifies only mobile based distraction and another that classifies all distractions.
+This repository consists of CNN visualization of intermediate layers of a driver distraction detection using StateFarm database. Two models were trained with similar structure and are visualised here. One that classifies only mobile based distraction and another that classifies all distractions.
 
 Trained model and corresponding files are in : https://github.com/n-akram/DriverDistractionDetection
 
-Classes used by model classifying only mobile based distractzions: C0 to C4
+Classes used by model classifying only mobile based distractions: C0 to C4
 
 Implementation from: https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/5.4-visualizing-what-convnets-learn.ipynb
 
