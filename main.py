@@ -25,8 +25,8 @@ if '-m' in sys.argv:
 modelPath = 'sampleModel/'
 testSamePath = 'sampleTest/same/'
 testNewPath = 'sampleTest/new/'
-sampleImg = 'c1_img_115.jpg' # training set
-#sampleImg ='c3_img_8.jpg' # test set
+#sampleImg = 'c1_img_115.jpg' # training set
+sampleImg ='c3_img_8.jpg' # test set
 
 def checkShape(model):
     s = []

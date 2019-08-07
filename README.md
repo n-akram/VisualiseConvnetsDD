@@ -54,3 +54,5 @@ GPU: GeForce RTX 2080 Ti
 4. Run "python main.py" : for visualisation of model trained for all classes
 
 5. Run "python main.py -m": for visualisation of model trained for mobile based distraction classes
+
+6. Note: Change the path to test image to visualise convNets given input from test set
